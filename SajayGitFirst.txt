@@ -3,7 +3,11 @@
 <ul>
 <li>Hello there!!!</li>
 <li>Sajay Here!!!</li>
+<<<<<<< HEAD
 <li>Original Text</li>
+=======
+<li>Merge Conflict*****</li>
+>>>>>>> bug-fix
 </ul>
 </body>
 </html>
