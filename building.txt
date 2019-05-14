@@ -2,8 +2,6 @@
 <body>
 <li>brick</li>
 <li>mortar</li>
-<li>more mortar</li>
-<li>cement</li>
-<li> sandal wood</li>
+<li>logesh mortar</li>
 </body>
 </html>
